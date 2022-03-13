@@ -40,3 +40,9 @@ D	E		A	A Moon Shaped Pool
 E	A		A Moon Shaped Pool	In Rainbows
 
 Items from previous searches should not appear again, but only the current search term items should be rotated.
+
+### Important Files
+<ol>
+ <li>src\components\tricentis\index.tsx => Code related to solution</li>
+ <li>src\redux\slices\tdata => Redux Slice for data</li>
+</ol>
